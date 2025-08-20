@@ -5,7 +5,7 @@ Soy Natalie Rodríguez, desarrolladora para EScoffee y estudiante de ingeniera e
 - 🔭 Actualmente estoy desarrollando una aplicación móvil para la empresa donde trabajo
 - 🌱 Estoy aprendiendo lenguajes como Dart, Java, Python, entre otros.
 - 📫 : natalie.rodriguez@uees.edu.ec
-- ⚡ Fun fact: me gusta el café.
+- ⚡ Fun fact: Acabo de obtener una certificación AWS.
 
 
 **Lenguajes de programación:**
